@@ -5,3 +5,4 @@ Resources for HackCCM Tutorials
 	slides for camera session
 	slides for messaging session
 	script to update a fresh system
+
