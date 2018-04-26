@@ -22,7 +22,7 @@ import os
 _DURATION = 2*60
 
 # Location of Time Lapse Capture Directory
-_IMAGE_DIR = '/home/pi/HackCCM'
+_IMAGE_DIR = '/home/pi/HackCCM' 
 
 # Camera identifer (prefix to image filename and clapboard
 _CAMERA = 'picam1'
