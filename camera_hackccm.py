@@ -11,8 +11,6 @@
 ##############################################################
 
 
-
-
 import picamera
 import time
 from datetime import datetime
@@ -24,7 +22,7 @@ import os
 _DURATION = 2*60
 
 # Location of Time Lapse Capture Directory
-_IMAGE_DIR = '/home/pi/TimeLapse'
+_IMAGE_DIR = '/home/pi/HackCCM'
 
 # Camera identifer (prefix to image filename and clapboard
 _CAMERA = 'picam1'
