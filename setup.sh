@@ -18,9 +18,11 @@ sudo apt-get install realvnc-vnc-server
 sudo systemctl enable vncserver-x11-serviced.service
 sudo pip3 install paho-mqtt
 
-sudo apt-get install realvnc-vnc-server
-sudo apt-get install realvnc-vnc-viewer
-sudo systemctl enable vncserver-x11-serviced.service
+# with an updates raspi-config, setup for VNC is a selection
+#
+#sudo apt-get install realvnc-vnc-server
+#sudo apt-get install realvnc-vnc-viewer
+#sudo systemctl enable vncserver-x11-serviced.service
 
 
 
